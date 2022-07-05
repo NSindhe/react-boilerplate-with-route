@@ -2,7 +2,7 @@
 
 react version used in this project is ^17.0.2
 
-In this boilerplate you can see the react router implementation with the pages Home and About.
+In this boilerplate you can see the react router implementation with the pages Home and About. You can add new pages to it and create new routes.
 
 ## Installation
 
